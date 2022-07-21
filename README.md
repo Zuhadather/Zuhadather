@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Zuhadather
 - 👀 I’m interested in developing software for mobile apps.
 - 🌱 I’m currently learning blockchain 
-- 📫 How to reach me @zuhadather@gmail.com
+- 📫 To reach me @zuhadather@gmail.com
 - 
 
 <!---
